@@ -1,4 +1,4 @@
 remote-behat-cli
 ================
 
-A Symfony project created on August 24, 2016, 4:48 pm.
+This command line interface will aim to retrieve features from the desktop rbehat project. For now, it is just getting started.
