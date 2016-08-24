@@ -1,5 +1,0 @@
-services:
-  app.client.rbehat:
-    class: GuzzleHttp\Client
-    tags:
-      - { name: guzzle.client, alias: rbehat }
